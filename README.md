@@ -10,3 +10,4 @@
 - Aplicación para administrar presupuesto
 - Aplicación para cotizar criptomonedas
 - Aplicación que busca noticias
+- Aplicación para buscar imagenes
